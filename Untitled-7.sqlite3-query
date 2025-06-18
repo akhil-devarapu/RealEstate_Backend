@@ -1,0 +1,3 @@
+-- database: ../../data/real_estate.db
+
+DROP TABLE reviews
